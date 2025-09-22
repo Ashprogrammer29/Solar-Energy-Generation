@@ -2,7 +2,7 @@
 
 This project focuses on **predicting solar energy generation** using machine learning techniques.  
 The dataset includes solar panel readings and environmental parameters that influence power generation.  
-The notebook (`Solar_Energy_Generation.ipynb`) contains the full workflow: data preprocessing, visualization, model training, and evaluation.
+The notebook (`Solar_Energy_Generation.ipynb`) contains the full workflow: data preprocessing, visualization, model training, and evaluation, providing insights based on the predictions made and forecasting for December after training the model on data from January to November.
 
 ## ⚙️ Features
 
@@ -12,7 +12,7 @@ The notebook (`Solar_Energy_Generation.ipynb`) contains the full workflow: data 
 - Evaluation of model performance  
 - Easily extendable for real-world datasets  
 
-### Data
+## Data
 
 -Location 1
 -Location 2
