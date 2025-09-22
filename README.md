@@ -85,6 +85,7 @@ Integrate real-time solar panel sensor data
 ### 👨‍💻 Author
 
 Aswin Deiavanayagam
+
 📧 Email: aswinsub9@gmail.com
 
 📌 GitHub: Ashprogrammer29
