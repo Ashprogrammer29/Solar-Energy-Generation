@@ -85,7 +85,9 @@ mkdir data
 ## Copy your dataset into that folder. Example:
 
 copy "C:\path\to\Location1" data\Location1
+
 copy "C:\path\to\Location2" data\Location2
+
 copy "C:\path\to\Location3" data\Location3
 
 ### Stage and commit the changes:
@@ -104,4 +106,5 @@ Integrate real-time solar panel sensor data
 ### 👨‍💻 Author
 Aswin Deiavanayagam
 📧 Email: aswinsub9@gmail.com
+
 📌 GitHub: Ashprogrammer29
