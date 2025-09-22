@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 jupyter notebook Solar_Energy_Generation.ipynb
 
-### 📦 Major Dependencies
+## 📦 Major Dependencies
 
 Python 3.8+
 pandas
@@ -77,12 +77,12 @@ prophet
 
 pip install -r requirements.txt
 
-### 🛠️ Adding the data Folder to GitHub
+## 🛠️ Adding the data Folder to GitHub
 Make a folder named data in your project:
 
 mkdir data
 
-### Copy your dataset into that folder. Example:
+## Copy your dataset into that folder. Example:
 
 copy "C:\path\to\Location1" data\Location1
 copy "C:\path\to\Location2" data\Location2
@@ -96,7 +96,7 @@ git push origin main
 
 ### ⚠️ If your dataset is large, consider using Git LFS or keep only a sample dataset in GitHub.
 
-### 📌 Future Work
+## 📌 Future Work
 Add more advanced models (XGBoost, Neural Networks, LSTMs)
 Deploy as a web application (Flask/Django/Streamlit)
 Integrate real-time solar panel sensor data
