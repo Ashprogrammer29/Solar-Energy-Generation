@@ -13,7 +13,10 @@ The notebook (`Solar_Energy_Generation.ipynb`) contains the full workflow: data 
 - Easily extendable for real-world datasets  
 
 data/
-├── solar_data.csv
+>Location 1
+>Location 2
+>Location 3
+
 
 ## 🚀 Getting Started
 
